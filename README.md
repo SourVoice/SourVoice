@@ -1,24 +1,27 @@
 # Profile
----
+
 <p align="center">
   <a href="https://github.com/SourVoice">
     <img
       align="center"
-      height="130em"
+      height="140em"
       src="https://github-readme-stats.vercel.app/api?username=SourVoice&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"
     />
   </a>
   <a href="https://github.com/SourVoice">
     <img
       align="center"
-      height="130em"
+      height="140em"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=SourVoice&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=tokyonight"
     />
   </a>
+</p>
+
+<p align="center">
    <a href="https://github.com/SourVoice">
     <img
       align="center"
-      height="130em"
+      height="202em"
       alt="drawing"
       src="https://activity-graph.herokuapp.com/graph?username=SourVoice&theme=react-dark"
     />
