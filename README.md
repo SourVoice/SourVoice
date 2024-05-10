@@ -59,14 +59,13 @@ Sunday                   224 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   2 hrs 8 mins        ███████████████████████░░   90.48 % 
-YAML                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 22 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 hrs 22 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C++** 
@@ -82,5 +81,5 @@ Lua                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/05/2024 20:02:08 UTC
+ Last Updated on 10/05/2024 20:02:13 UTC
 <!--END_SECTION:waka-->
