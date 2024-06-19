@@ -59,14 +59,13 @@ Sunday                   224 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    39 mins             ██████████████████████░░░   89.37 % 
-C++                      4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Bash                     43 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-WSL                      43 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C++** 
@@ -82,5 +81,5 @@ Lua                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/06/2024 20:02:09 UTC
+ Last Updated on 19/06/2024 20:02:14 UTC
 <!--END_SECTION:waka-->
