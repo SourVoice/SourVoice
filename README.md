@@ -59,14 +59,13 @@ Sunday                   225 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C                        1 hr 58 mins        █████████████████████████   99.97 % 
-C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 58 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 58 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C++** 
@@ -82,5 +81,5 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/05/2025 20:02:13 UTC
+ Last Updated on 01/06/2025 20:02:29 UTC
 <!--END_SECTION:waka-->
