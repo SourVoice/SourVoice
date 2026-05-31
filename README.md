@@ -32,6 +32,42 @@
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.65%20million%20lines%20of%20code-blue?style=flat)
 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                152 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
+🌆 Daytime                532 commits         ███████░░░░░░░░░░░░░░░░░░   28.90 % 
+🌃 Evening                867 commits         ████████████░░░░░░░░░░░░░   47.09 % 
+🌙 Night                  290 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   299 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
+Tuesday                  261 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
+Wednesday                235 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
+Thursday                 232 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
+Friday                   239 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
+Saturday                 350 commits         █████░░░░░░░░░░░░░░░░░░░░   19.01 % 
+Sunday                   225 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in C++** 
 
 ```text
@@ -45,5 +81,5 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/05/2026 20:45:18 UTC
+ Last Updated on 31/05/2026 20:22:56 UTC
 <!--END_SECTION:waka-->
