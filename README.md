@@ -30,26 +30,26 @@
 
 ---
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.65%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.69%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                152 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
-🌆 Daytime                532 commits         ███████░░░░░░░░░░░░░░░░░░   28.88 % 
-🌃 Evening                868 commits         ████████████░░░░░░░░░░░░░   47.12 % 
-🌙 Night                  290 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
+🌞 Morning                152 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
+🌆 Daytime                532 commits         ███████░░░░░░░░░░░░░░░░░░   28.34 % 
+🌃 Evening                903 commits         ████████████░░░░░░░░░░░░░   48.11 % 
+🌙 Night                  290 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   299 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
-Tuesday                  261 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
-Wednesday                235 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
-Thursday                 233 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
-Friday                   239 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
-Saturday                 350 commits         █████░░░░░░░░░░░░░░░░░░░░   19.00 % 
-Sunday                   225 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
+Monday                   299 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
+Tuesday                  296 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
+Wednesday                235 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
+Thursday                 233 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
+Friday                   239 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
+Saturday                 350 commits         █████░░░░░░░░░░░░░░░░░░░░   18.65 % 
+Sunday                   225 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
 ```
 
 
@@ -59,28 +59,31 @@ Sunday                   225 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      8 mins              ████████████████████░░░░░   80.46 % 
-Mathematica              2 mins              █████░░░░░░░░░░░░░░░░░░░░   19.54 % 
+PowerShell               13 mins             ████████░░░░░░░░░░░░░░░░░   32.45 % 
+C                        13 mins             ████████░░░░░░░░░░░░░░░░░   31.86 % 
+C++                      8 mins              █████░░░░░░░░░░░░░░░░░░░░   19.77 % 
+Other                    2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
+Mathematica              2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
 
 🔥 Editors: 
-VS Code                  10 mins             █████████████████████████   100.00 % 
+VS Code                  42 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  10 mins             █████████████████████████   100.00 % 
+Windows                  42 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
 
 ```text
-C++                      8 repos             ███████████░░░░░░░░░░░░░░   42.11 % 
-C                        4 repos             █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
-JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-Rust                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+C++                      8 repos             ██████████░░░░░░░░░░░░░░░   40.00 % 
+C                        5 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+Rust                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
 ```
 
 
 
 
- Last Updated on 19/07/2026 20:37:31 UTC
+ Last Updated on 22/07/2026 20:54:59 UTC
 <!--END_SECTION:waka-->
