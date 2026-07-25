@@ -59,17 +59,17 @@ Sunday                   225 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-PowerShell               13 mins             ████████░░░░░░░░░░░░░░░░░   32.45 % 
-C                        13 mins             ████████░░░░░░░░░░░░░░░░░   31.86 % 
-C++                      8 mins              █████░░░░░░░░░░░░░░░░░░░░   19.77 % 
-Other                    2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
-Mathematica              2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
+PowerShell               13 mins             ███████████░░░░░░░░░░░░░░   43.03 % 
+C                        13 mins             ███████████░░░░░░░░░░░░░░   42.24 % 
+Other                    2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
+Git Config               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
+Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 
 🔥 Editors: 
-VS Code                  42 mins             █████████████████████████   100.00 % 
+VS Code                  31 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  42 mins             █████████████████████████   100.00 % 
+Windows                  31 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -85,5 +85,5 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/07/2026 20:54:59 UTC
+ Last Updated on 25/07/2026 20:40:27 UTC
 <!--END_SECTION:waka-->
