@@ -30,8 +30,6 @@
 
 ---
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-53%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.69%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
@@ -61,13 +59,16 @@ Sunday                   225 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    0 secs              █████████████████████████   100.00 % 
+C++                      15 mins             ██████████████████████░░░   86.14 % 
+Markdown                 2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 
 🔥 Editors: 
-Visual Studio            0 secs              █████████████████████████   100.00 % 
+Visual Studio            15 mins             ██████████████████████░░░   86.63 % 
+Obsidian                 2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
+Windows                  17 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -89,5 +90,5 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/08/2026 20:40:26 UTC
+ Last Updated on 04/08/2026 21:01:52 UTC
 <!--END_SECTION:waka-->
