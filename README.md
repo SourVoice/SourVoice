@@ -59,23 +59,39 @@ Sunday                   225 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      1 hr 5 mins         ████████████████████████░   96.30 % 
-Markdown                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
-C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+C++                      1 hr 5 mins         █████████████████████░░░░   83.78 % 
+Markdown                 7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
+Other                    4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
+C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 🔥 Editors: 
-Visual Studio            1 hr 6 mins         ████████████████████████░   96.88 % 
-Obsidian                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+Visual Studio            1 hr 6 mins         █████████████████████░░░░   84.29 % 
+Obsidian                 12 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
 
 💻 Operating System: 
-Windows                  1 hr 8 mins         █████████████████████████   100.00 % 
+Windows                  1 hr 18 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 8 mins (10.88%)
+
+✍️ 0 lines written by AI, 92 lines written by hand (0.0% AI-written)
+
+🔤 77,788 Input Tokens, 33,664 Output Tokens
+
+💵 $6.57 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 4 AI Prompts
+
+Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 23 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C++** 
@@ -91,5 +107,5 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/08/2026 20:17:09 UTC
+ Last Updated on 29/08/2026 02:35:02 UTC
 <!--END_SECTION:waka-->
