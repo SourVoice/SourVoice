@@ -61,38 +61,38 @@ Sunday                   225 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 46 mins             ███████████░░░░░░░░░░░░░░   44.16 % 
-Other                    43 mins             ██████████░░░░░░░░░░░░░░░   41.72 % 
-Python                   10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
-YAML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
+Markdown                 35 mins             ███████████████░░░░░░░░░░   60.85 % 
+Python                   10 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.72 % 
+Other                    8 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
+Text                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
 
 🔥 Editors: 
-Obsidian                 1 hr 44 mins        █████████████████████████   100.00 % 
+Obsidian                 58 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 44 mins        █████████████████████████   100.00 % 
+Windows                  58 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 19 mins (75.66%)
+⏱ AI Coding Time: 34 mins (59.25%)
 
-✍️ 7 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 13 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 341,174 Input Tokens, 175,090 Output Tokens
+🔤 54,785 Input Tokens, 27,351 Output Tokens
 
-💵 $32.52 Estimated AI Cost This Week
+💵 $3.39 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 30 AI Prompts
+🧠 3 AI Sessions, 3 AI Prompts
 
-Hermes                   7 lines             █████████████████████████   100.00 % 
+Hermes                   13 lines            █████████████████████████   100.00 % 
 Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 124 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+📝 Concise Prompter — average 24 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -109,5 +109,5 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/09/2026 22:10:57 UTC
+ Last Updated on 04/09/2026 21:56:50 UTC
 <!--END_SECTION:waka-->
